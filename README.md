@@ -14,11 +14,11 @@
 <!-- About Me Section -->
 ## 💫 About Me
 
-Hello! I’m a Computer Science and Artificial Intelligence undergraduate at **IIIT Lucknow** (2022–2026) with a deep passion for building scalable applications, cutting-edge AI solutions, and mastering algorithmic challenges. I enjoy solving complex problems and continuously learning new technologies.
+Hello! I’m a Computer Science and Artificial Intelligence undergraduate at **IIIT Lucknow** (2022–2026) with a deep passion for building scalable applications and exploring cutting-edge AI solutions. I enjoy solving challenging problems and continuously learning new technologies.
 
-- 🔭 **Current Focus:** AI-powered healthcare tools & multimodal emotion detection
-- 🌱 **Learning:** Advanced ML, full-stack development, competitive algorithms
-- 💬 **Ask Me About:** Machine Learning, Web Development, and Data Structures
+- 🔭 **Current Focus:** AI-powered healthcare tools & multimodal emotion detection  
+- 🌱 **Learning:** Advanced ML, full-stack development, competitive algorithms  
+- 💬 **Ask Me About:** Machine Learning, Web Development, and Data Structures  
 - 📫 **Contact:** [abhaykv0770@gmail.com](mailto:abhaykv0770@gmail.com)
 
 ---
@@ -57,67 +57,6 @@ Hello! I’m a Computer Science and Artificial Intelligence undergraduate at **I
     <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </p>
 </div>
-
----
-
-<!-- Projects Section -->
-## 💻 Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <strong>SlotSync App</strong><br/>
-        <em>React | Firebase | Auth0</em><br/>
-        🔐 Secure and efficient appointment management app. <br/>
-        <sub>Reduced 200+ login support queries monthly & boosted appointment efficiency 🚀</sub>
-      </td>
-      <td align="center">
-        <strong>NeuraBot</strong><br/>
-        <em>LangChain | FAISS | HuggingFace | Streamlit</em><br/>
-        🧠 AI-powered medical chatbot improving document retrieval by 60%. <br/>
-        <sub>Cost-effective and scalable with 99.9% uptime</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <strong>Sociopedia</strong><br/>
-        <em>React | Tailwind CSS | Node.js | MongoDB</em><br/>
-        📊 Social sharing platform with real-time analytics dashboards. <br/>
-        <sub>Increased message sharing by 35% and improved user retention by 30%</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<!-- Achievements Section -->
-## 🏆 Achievements & Competitions
-
-- **LeetCode:** Knight (Rating: **1899**) ⚔️
-- **CodeChef:** Global Rank **182** in Starters 90D, 4-star coder ⭐
-- **Codeforces:** Rated Specialist (Peak Rating: **1400+**) 🔥
-- Selected for **Amazon’s ML Summer School** among 10,000+ applicants 💼
-- Runner-up at **Hackofiesta v4** & **Fresher’s Cup @ IIITL 2023**
-
----
-
-<!-- Experience Section -->
-## 💼 Experience
-
-**Web Developer Intern** (Feb 2025)  
-- Collaborated with a design team to create 20+ responsive web pages 🌐  
-- Optimized administrative tasks, increasing team efficiency by 30%
-
----
-
-<!-- Leadership Section -->
-## 🌟 Leadership & Volunteering
-
-**Event & Ops Lead, EQUINOX @ IIITL**  
-- Organized 10+ workshops and tech events, boosting community engagement by 20%  
-- Mentored a community of 200+ CS students for professional growth and skills development 🎓
 
 ---
 
