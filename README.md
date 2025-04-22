@@ -82,13 +82,3 @@ Hello! I’m a Computer Science and Artificial Intelligence undergraduate at **I
 </div>
 
 ---
-
-<!-- GitHub Stats Section -->
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=AbhayKumarVerma&theme=radical&show_icons=true" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayKumarVerma&theme=radical" alt="GitHub Streak" />
-  </p>
-</div>
