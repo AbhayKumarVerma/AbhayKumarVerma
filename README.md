@@ -70,10 +70,10 @@ Hello! I’m a Computer Science and Artificial Intelligence undergraduate at **I
   <a href="https://github.com/AbhayKumarVerma" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/u/akv001/" target="_blank">
+  <a href="https://leetcode.com/u/akv01/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-0052FE?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://codeforces.com/profile/abhayverma1" target="_blank">
+  <a href="https://codeforces.com/profile/abhaykumarverma" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8AC0?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
   <a href="https://www.codechef.com/users/abhayverma57" target="_blank">
